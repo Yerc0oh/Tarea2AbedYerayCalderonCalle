@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+}
+.ore1{
+    background-color: #da530d;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 150px;
+    left: 30%;
+    border-radius: 100px;
+}
+.ore2{
+    background-color: #da530d;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border-radius: 100px;
+    top: 150px;
+    left: 43.5%;
+}
+.caeza{
+    background-color: #da530d;
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+    left: 30%;
+    position: absolute;
+    top: 200px;
+}
+.ojo1{
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    border-radius: 30px;
+}
+.ojo2{
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    border-radius: 30px;
+}
+.pupil{
+    background-color: aliceblue;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    border-radius: 15px;
+}
+.hoc{
+    background-color: black;
+    height: 80px;
+    width: 120px;
+    top: 45%;
+    left: 27%;
+    position: absolute;
+    border-radius: 60px;
+}
+.fosa1{
+    position: absolute;
+    background-color: #1a1a1a;
+    height: 50px;
+    width:  50px;
+    top: 35%;
+    left: 10%;
+    border-radius: 50px;
+}
+.fosa2{
+    position: absolute;
+    background-color: #1a1a1a;
+    height: 50px;
+    width:  50px;
+    top: 35%;
+    left: 50% ;
+    border-radius: 50px;
+}
+.bocajuniors{
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    top: 80%;
+    left: 33.3%;
+    background-color: black;
+    border-radius: 20px;
+}
+.goldi{
+    position: absolute;
+    height: 500px;
+    width: 450px;
+    background-color: #da530d;
+    border-radius: 450px;
+    top: 490px;
+    left: 25%;
+}
+.panza{
+    position: absolute;
+    background-color: #f0ba9e;
+    height: 400px;
+    width: 350px;
+    border-radius: 350px;
+    left: 50px;
+    top: 90px;
+}
+.brazo1{
+    position: absolute;
+    background-color: #da530d;
+    height: 400px;
+    width: 100px;
+    top: 570px;
+    border-radius: 100px;
+    left: 23%;
+}
+.brazo2{
+    position: absolute;
+    background-color: #da530d;
+    height: 400px;
+    width: 100px;
+    top: 570px;
+    border-radius: 100px;
+    left: 50%;
+}
+.pierna1{
+    position: absolute;
+    background-color: #da530d;
+    height: 400px;
+    width: 100px;
+    top: 930px;
+    border-radius: 100px;
+    left: 32%;
+}
+.pierna2{
+    position: absolute;
+    background-color: #da530d;
+    height: 400px;
+    width: 100px;
+    top: 930px;
+    border-radius: 100px;
+    left: 42%;
+}
+.cajatex{
+    position: absolute;
+    border-style: solid;
+    border: 10px;
+    border-radius: 30px;
+    width: 300px;
+    height: 150px;
+    font-family: 'Comic Sans MS';
+    left: 900px;
+    top: 150px;
+}
